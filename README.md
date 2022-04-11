@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slickmorty
-- 👀 I’m interested in AI, ML, Hardware Description Language(VHDL), and Flutter development :)
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on anything :)
+- 👀 I’m interested in AI, ML and Hardware Description Language(VHDL):)
+- ⌛ Currently making some machine learning models for technical analysis in forex.
 - 📫 How to reach me a_abasi97@yahoo.com
 
 <!---
