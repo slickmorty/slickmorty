@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slickmorty
-- 👀 I’m interested in AI, ML and Hardware Description Language(VHDL):)
+- 👀 I’m interested in AI, ML and Hardware Description Language!
 - ⌛ Currently making some machine learning models for time series forcasting.
 - 📫 How to reach me a_abasi97@yahoo.com
 
