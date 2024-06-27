@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slickmorty
+- 👋 Hi, I’m Ahmad Abasi
 - 👀 I’m interested in Backend dev,AI, ML and Hardware Description Language!
 - ⌛ Currently enjoying go :)
 - 📫 How to reach me ad.abasi1997@gmail.com
