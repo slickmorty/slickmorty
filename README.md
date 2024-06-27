@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slickmorty
-- 👀 I’m interested in AI, ML and Hardware Description Language!
-- ⌛ Currently making some machine learning models for time series forcasting.
-- 📫 How to reach me a_abasi97@yahoo.com
+- 👀 I’m interested in Backend dev,AI, ML and Hardware Description Language!
+- ⌛ Currently enjoying go :)
+- 📫 How to reach me ad.abasi1997@gmail.com
 
 <!---
 slickmorty/slickmorty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
